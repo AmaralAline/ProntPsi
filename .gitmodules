@@ -1,4 +1,7 @@
-[submodule "ProntPsi"]
+
+    [submodule "ProntPsi"]
     path = ProntPsi
-    url = git@github.com:usuario/ProntPsi.git
+    url = https://github.com/usuario/ProntPsi.git
+
+
 
